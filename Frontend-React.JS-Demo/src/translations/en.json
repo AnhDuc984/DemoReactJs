@@ -1,0 +1,48 @@
+{
+    "home-header" : {
+        "speciality" : "Medical specialty",
+        "search-doctor":"Find a doctor by specialty",
+        "facility" : "Facility",
+        "select-room":"Choose hospital clinic",
+        "doctors":"Doctor",
+        "select-doctor" : "Choose a good doctor",
+        "checkup-package": "Checkup package",
+        "health-check" : "General health check",
+        "welcome" : "welcome , "
+
+    },
+    "menu": {
+        "admin" : {
+            "manage-user" : "Users system",
+            "manage-doctor" : "Manage doctors",
+            "manage-admin" : "Manage admins",
+            "crud" : "CRUD user",
+            "crud-redux" : "CRUD redux",
+            "clinic" : "Clinics",
+            "manage-clinic" : "Manage clinic",
+            "specialty" : "Specialty",
+            "manage-specialty" : "Manage speciality",
+            "handbook" : "Hand book",
+            "manage-handbook" : "Manage hand book"
+        }
+    },
+    "manage-user" : {
+        "add" : "Add a new user",
+        "email" : "Email",
+        "password" : "Password",
+        "first-name" : "First name",
+        "last-name" : "Last name",
+        "phone-number" : "Phone number",
+        "address" : "Address",
+        "gender" : "Gender",
+        "position" : "Position",
+        "role-id" : "Role id",
+        "image" : "Avatar",
+        "save" : "Save",
+        "edit" : "Save changes"
+    },
+    "homepage" : {
+        "outSanding-doctor" : "Outstanding Doctor",
+        "search" : "search"
+    }
+}

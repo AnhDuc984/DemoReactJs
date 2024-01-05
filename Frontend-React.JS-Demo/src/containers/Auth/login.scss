@@ -1,0 +1,82 @@
+.login-background {
+    background: linear-gradient(135deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+    height: 100vh;
+    position: relative;
+   
+    .login-container {
+        margin: auto;
+        width: 300px;
+        max-height: 100vh;
+        height: 450px;
+        background-color: #fff;
+        border-radius: 25px;
+        padding: 10px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        .text-login {
+            text-align: center;
+            font-size: 30px;
+        }
+
+        .login-input {
+            margin: 7px 0;
+            .custom-input-password{
+                position: relative;
+                i{
+                    position: absolute;
+                    right: 5px;
+                    top: 10px;
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .btn-login {
+            width: 100%;
+            margin: 10px 0;
+            height: 30px;
+            border-radius: 10px;
+            border: none;
+            outline: none;
+            background: linear-gradient(135deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+            color: #fff;
+        }
+
+        .forgot-password {
+            font-size: 12px;
+        }
+
+        .social-login {
+            display: flex;
+            font-size: 25px;
+            text-align: center;
+            justify-content: center;
+            margin-top: 20px;
+            .google {
+                content: "\f0d5";
+                background-color: #cd2424;
+                border-radius: 50%;
+                display: flex;
+                justify-content: center;
+                width: 50px;
+                height: 50px;
+                align-items: center;
+                color: #fff;
+                margin-right: 20px;
+            }
+            .facebook {
+                background-color: #0071ba;
+                border-radius: 50%;
+                display: flex;
+                justify-content: center;
+                width: 50px;
+                height: 50px;
+                align-items: center;
+                color: #fff;
+            }
+        }
+    }
+}

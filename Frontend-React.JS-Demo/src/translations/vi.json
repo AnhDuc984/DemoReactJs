@@ -1,0 +1,49 @@
+{
+
+    "home-header" : {
+        "speciality" : "Chuyên khoa",
+        "search-doctor":"Tìm bác sĩ theo chuyên khoa",
+        "facility" : "Cơ sở y tế",
+        "select-room":"Chọn bệnh viện phòng khám",
+        "doctors":"Bác sĩ",
+        "select-doctor" : "Chọn bác sĩ giỏi",
+        "checkup-package": "Gói khám",
+        "health-check" : "Khám sức khỏe tổng quát",
+        "welcome" : "Xin chào , "
+    },
+    "menu": {
+        "admin" : {
+            "manage-user" : "Người dùng ",
+            "manage-doctor" : "Quản lý bác sĩ",
+            "manage-admin" : "Quản lý Admin",
+            "crud" : "CRUD user",
+            "crud-redux" : "CRUD redux",
+            "clinic" : "Phòng khám",
+            "manage-clinic" : "Quản lý phòng khám",
+            "specialty" : "Chuyên Khoa",
+            "manage-specialty" : "Quản lý chuyên khoa",
+            "handbook" : "cẩm nang",
+            "manage-handbook" : "Quản lý cẩm nang"
+        }
+    },
+    "manage-user" : {
+        "add" : "Thêm mới người dùng",
+        "email" : "Email",
+        "password" : "Mật khẩu",
+        "first-name" : "Tên",
+        "last-name" : "Họ",
+        "phone-number" : "Số điện thoại",
+        "address" : "Địa chỉ",
+        "gender" : "Giới tính",
+        "position" : "Chức danh",
+        "role-id" : "Vai trò",
+        "image" : "Ảnh đại diện",
+        "save" : "Lưu user",
+        "edit" : "Lưu thay đổi"
+    },
+    "homepage" : {
+        "outSanding-doctor" : "Bác sĩ nổi bật tuần qua",
+        "search" : "Tìm Kiếm"
+    }
+
+}
